@@ -59,6 +59,18 @@ object DataSource {
             "Bella",
             "14",
             "Chasing sea foam"
+        ),
+        Dog(
+            R.drawable.hans_photo,
+            "Hans",
+            "1",
+            "play with sticks"
+        ),
+        Dog(
+            R.drawable.chip,
+            "Chip",
+            "2",
+            "play with frisbee"
         )
     )
 }
