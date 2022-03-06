@@ -70,7 +70,7 @@ object DataSource {
             R.drawable.chip_photo,
             "Chip",
             "2",
-            "play with frisbee"
+            "KEEEEEEEEEEEEEEEEEEEEEEEEEK"
         )
     )
 }
