@@ -67,7 +67,7 @@ object DataSource {
             "play with sticks"
         ),
         Dog(
-            R.drawable.chip,
+            R.drawable.chip_photo,
             "Chip",
             "2",
             "play with frisbee"

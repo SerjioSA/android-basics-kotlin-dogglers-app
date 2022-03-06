@@ -36,16 +36,16 @@
         "source": "C:\\GitHub\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\drawable\\leroy.jpg"
     },
     {
+        "merged": "C:\\GitHub\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chip_photo.jpg.flat",
+        "source": "C:\\GitHub\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\drawable\\chip_photo.jpg"
+    },
+    {
         "merged": "C:\\GitHub\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nox.jpg.flat",
         "source": "C:\\GitHub\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\drawable\\nox.jpg"
     },
     {
         "merged": "C:\\GitHub\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_list_item.xml.flat",
         "source": "C:\\GitHub\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\layout\\grid_list_item.xml"
-    },
-    {
-        "merged": "C:\\GitHub\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chip.jpg.flat",
-        "source": "C:\\GitHub\\android-basics-kotlin-dogglers-app\\app\\src\\main\\res\\drawable\\chip.jpg"
     },
     {
         "merged": "C:\\GitHub\\android-basics-kotlin-dogglers-app\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vertical_list.xml.flat",
