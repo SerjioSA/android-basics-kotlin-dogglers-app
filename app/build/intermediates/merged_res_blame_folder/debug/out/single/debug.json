@@ -1,11 +1,15 @@
 [
     {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
         "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sucsess.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\sucsess.jpg"
     },
     {
         "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hans_photo.jpg.flat",
@@ -16,32 +20,48 @@
         "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\layout\\activity_grid_list.xml"
     },
     {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cnc.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\cnc.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hodila.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\hodila.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_krut.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\krut.jpg"
+    },
+    {
         "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_grid_list_item.xml.flat",
         "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\layout\\grid_list_item.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_poliv.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\poliv.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_frankie.jpg.flat",
         "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\frankie.jpg"
     },
     {
-        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_horizontal_list.xml.flat",
-        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\layout\\activity_horizontal_list.xml"
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
         "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nox.jpg.flat",
-        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\nox.jpg"
-    },
-    {
-        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vertical_list.xml.flat",
-        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\layout\\activity_vertical_list.xml"
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_faye.jpg.flat",
@@ -52,12 +72,20 @@
         "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leroy.jpg.flat",
-        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\leroy.jpg"
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dude.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\dude.jpg"
     },
     {
         "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_vertical_horizontal_list_item.xml.flat",
         "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\layout\\vertical_horizontal_list_item.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vetr.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\vetr.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bye.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\bye.jpg"
     },
     {
         "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bella.jpg.flat",
@@ -68,7 +96,75 @@
         "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\tzeitel.jpg"
     },
     {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blen.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\blen.jpg"
+    },
+    {
         "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chip_photo.jpg.flat",
         "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\chip_photo.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pris.jpeg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\pris.jpeg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_horizontal_list.xml.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\layout\\activity_horizontal_list.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dict.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\dict.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nox.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\nox.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_vertical_list.xml.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\layout\\activity_vertical_list.xml"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_want.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\want.png"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leroy.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\leroy.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_zaebok.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\zaebok.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hand.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\hand.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_road.jpg.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\drawable\\road.jpg"
+    },
+    {
+        "merged": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\GitHub\\NikitoSerezhsky_v2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]

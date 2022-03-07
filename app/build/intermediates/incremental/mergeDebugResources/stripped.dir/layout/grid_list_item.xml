@@ -42,7 +42,7 @@
             android:layout_width="match_parent"
             android:layout_height="194dp"
             android:id="@+id/dog_image"
-            android:scaleType="centerCrop"
+            android:scaleType="centerInside"
             android:importantForAccessibility="no"
 
             />
@@ -58,9 +58,14 @@
             android:id="@+id/dog_name"
             app:layout_constraintTop_toBottomOf="@id/dog_image"
             app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
             android:textAppearance="@style/TextAppearance.MaterialComponents.Headline6"
             android:layout_marginTop="8dp"
             android:layout_marginStart="8dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginBottom="8dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="8dp"
             tools:text="Leroy" />
 
         <TextView
@@ -72,7 +77,8 @@
 
             android:layout_marginTop="16dp"
             android:textAppearance="@style/TextAppearance.AppCompat.Body1"
-            tools:text="Age: 4" />
+            tools:text="Age: 4"
+            android:visibility="invisible"/>
 
         <TextView
             android:layout_width="wrap_content"
@@ -89,7 +95,7 @@
             android:layout_marginEnd="8dp"
 
             tools:text="Hobbies: sleeping in dangerous places"
-
+            android:visibility="invisible"
             />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
